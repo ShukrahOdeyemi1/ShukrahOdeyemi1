@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShukrahOdeyemi1
-- 👀 I’m interested in many things lol
+- 👀 I’m interested in many things; programming and coding, copywriting, writing and authoring, and painting and drawing
 - 🌱 I’m currently learning software engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on programming and coding and authoring 
 - 📫 How to reach me odelekeodeyemi@gmail.com
 
 <!---
